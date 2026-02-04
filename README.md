@@ -26,7 +26,21 @@ The project is deployed on **Apache Tomcat** and demonstrates login, API data fe
 - Eclipse IDE
 
 ---
-
+## 📂 Project Structure
+```
+Dynamicweb
+├── Deployment Descriptor
+├── JAX-WS Web Services
+├── Java Resources
+├── build
+└── src
+    └── main
+        ├── java
+        └── webapp
+            ├── META-INF
+            ├── WEB-INF
+            └── past your web project file
+```
 ## 📁 Project Structure (Past Project file)
 customise index.html 
 ```
