@@ -27,7 +27,7 @@ The project is deployed on **Apache Tomcat** and demonstrates login, API data fe
 
 ---
 ## 📂 Project Structure
-```
+```js
 Dynamicweb
 ├── Deployment Descriptor
 ├── JAX-WS Web Services
@@ -43,7 +43,7 @@ Dynamicweb
 ```
 ## 📁 Project Structure (Past Project file)
 customise index.html 
-```
+```css
 <!DOCTYPE html>
 <html lang="en">
 
